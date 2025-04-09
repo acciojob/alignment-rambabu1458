@@ -11,7 +11,7 @@ table, tr, td{
 .middle,.center{
 	text-align:center;
 }
-#t13{
+#t13,.right{
 	text-align:end;
 }
 #table-2{
