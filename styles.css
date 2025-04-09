@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+h3{
+	text-align:center;
+}
+table, tr, td{
+	border:1px solid ;
+}
+#table-1,#table-2,#table-3{
+	width:100%
+}
+.middle{
+	text-align:center;
+}
+#t13{
+	text-align:end;
+}
+#table-2{
+	margin:20px 0;
+}
+#table-2 tr td,#table-3 tr td{
+	padding:10px;
+}
+.t31{
+	background:green;
+}
+.t33{
+	background:blue;
+}
